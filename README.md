@@ -1,5 +1,5 @@
 <h1>Lab Project - Desafio Classificador de nível de Herói</h1>
-<p>Desafio proposto nas aulas de Logica de Programacao ministrada pelo <a href="https://www.linkedin.com/in/felipeaguiar-exe/">Felipe Aguiar</a>, pela plataforma da <a href="https://www.linkedin.com/school/dio-makethechange/">DIO</a>.</p>
+<p>Desafio proposto no curso de Logica de programação ministrada pelo <a href="https://www.linkedin.com/in/felipeaguiar-exe/">Felipe Aguiar</a>, pela plataforma da <a href="https://www.linkedin.com/school/dio-makethechange/">DIO</a>.</p>
 
 <h2>Descrição do projeto:</h2>
 <img width="701" height="153" alt="image" src="https://github.com/user-attachments/assets/5f7d2862-a534-4905-b6ad-9d197e82a12c" />
